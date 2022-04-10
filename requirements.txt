@@ -1,0 +1,5 @@
+APScheduler
+fastapi
+Pillow
+requests
+urllib3
