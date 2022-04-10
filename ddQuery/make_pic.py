@@ -1,7 +1,6 @@
 import os
 import time
 import json
-import cv2 as cv
 from .dd_account import *
 from .api import *
 from pathlib import Path
